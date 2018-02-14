@@ -13,3 +13,10 @@ Questions we need to answer are:
 - Intel Managment - be that online parsing, reporting and Redit/Forums/google searching of key terms automaticly.
     - i.e. - Key Term "The Spire" is searched in Redit, Eve Online Forums, and Google, etc - and sorted by date to see what intel can be
       mustered about a region, etc.
+
+Ideas for Eve-Sitrep
+- Situation Report - 1 screen showing selected systems in a intel overview.
+- Listener Agent that runs along side Eve to feed intel channel intel to the server for parsing (will be a brief delay)
+- Discord Intregration
+- Teamspeak / Mumble / Discourse / Forums intregrations
+- link live feeds to system intel (video feeds, etc)
